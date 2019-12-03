@@ -37,8 +37,6 @@ h1, h2, p {
     border-bottom: none;
   }
 
-}
-
   .card:last-child {
     border: none;
   }
